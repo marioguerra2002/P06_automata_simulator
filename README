@@ -1,0 +1,10 @@
+Programa el cual a partir de un archivo de texto que contiene un automata finito
+no determinista, genera un archivo de texto que contiene el automata finito y a partir
+de otro archivo de texto que contiene cadenas, comprueba si estas cadenas son
+aceptadas por el automata finito.
+
+Modificación: se ha añadido la opción de introducir un DFA por linea de parámetros
+para comprobar si son equivalentes.
+
+El archivo nfamodificado es el nfa con una diferencia para comprobar que deja de ser
+equivalente con el DFA.
